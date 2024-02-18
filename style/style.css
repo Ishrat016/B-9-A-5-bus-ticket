@@ -1,0 +1,13 @@
+
+.font {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400, 500, 700;
+  font-style: normal;
+}
+
+
+.coupon {
+  display: flex;
+  justify:centre;
+}
